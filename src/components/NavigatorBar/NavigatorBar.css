@@ -3,11 +3,12 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: #363636;
+    background-color: rgba(0, 0, 0, 0.8);
     color: white;
     padding: 10px;
     font-weight: bold;
     font-size: 20px;
+    animation: nav-bar-animation 5s infinite ease-in-out;
 }
 
 .nav-elements{
@@ -20,4 +21,9 @@
     font-size: 18px;
 }
 
+@keyframes nav-bar-animation{
+    0%{background-color: rgba(0, 0, 0, 0.8);}
+    50%{background-color: rgba(27, 27, 27, 0.8);}
+    100%{background-color: rgba(0, 0, 0, 0.8);}
+}
 

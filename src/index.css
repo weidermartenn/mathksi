@@ -3,6 +3,9 @@ body {
   font-family: "Inter";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://qph.cf2.quoracdn.net/main-qimg-2c3ac99c098076ce9dcee285fb8e9125');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {
@@ -14,5 +17,6 @@ code {
   font-family: "Inter";
   src: local('Inter'), url('../src/fonts/Inter-Regular.ttf') format('opentype');
 }
+
 
 

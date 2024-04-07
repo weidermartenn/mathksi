@@ -1,13 +1,14 @@
 import './App.css';
+import MethodsContainer from './components/MethodsContainer/MethodsContainer';
 import NavigatorBar from './components/NavigatorBar/NavigatorBar';
+import FooterBar from './components/FooterBar/FooterBar';
 
 function App() {
   return (
     <div>
       <NavigatorBar/>
-      <div>
-        Остальное потом
-      </div>
+      <MethodsContainer/>
+      <FooterBar/>
     </div>
   );
 }
