@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Ubuntu";
+  font-family: 'Ubuntu';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url('https://qph.cf2.quoracdn.net/main-qimg-2c3ac99c098076ce9dcee285fb8e9125');
@@ -14,7 +14,7 @@ code {
 }
 
 @font-face {
-  font-family: "Ubuntu";
+  font-family: 'Ubuntu';
   src: local('Ubuntu'), url('../src/fonts/Ubuntu-Regular.ttf') format('opentype');
 }
 
