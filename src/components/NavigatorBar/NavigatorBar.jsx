@@ -6,7 +6,7 @@ export default function NavigatorBar(){
     <header className='nav-bar'>
         <div className='nav-elements'>
             <img src={logo} alt="+-x="/>
-            <h1>MathKsi</h1>
+            <h1>MATHKSI</h1>
         </div>
     </header>
   )

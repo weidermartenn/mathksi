@@ -11,3 +11,7 @@
   color: #61dafb;
 }
 
+@font-face {
+  font-family: 'Inter';
+  src: local('Inter'), url('./fonts/Inter-Regular.ttf') format('ttf');
+}

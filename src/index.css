@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Cascadia Code Light';
+  font-family: "Inter";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -9,4 +9,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Inter";
+  src: local('Inter'), url('../src/fonts/Inter-Regular.ttf') format('opentype');
+}
+
 
