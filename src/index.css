@@ -3,7 +3,7 @@ body {
   font-family: 'Ubuntu';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('https://qph.cf2.quoracdn.net/main-qimg-2c3ac99c098076ce9dcee285fb8e9125');
+  /* background-image: url('https://qph.cf2.quoracdn.net/main-qimg-2c3ac99c098076ce9dcee285fb8e9125'); */
   background-size: cover;
   background-repeat: no-repeat;
 }
